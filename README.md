@@ -1,0 +1,2 @@
+# laprak2-struktur-data
+Laporan Praktikum Struktur Data Modul 2
